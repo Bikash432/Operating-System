@@ -3,6 +3,8 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+//Push the program to Git
+
 #define number_of_threads 20
 
 struct drand48_data randbuf;
